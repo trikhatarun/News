@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/business_key"
+        android:summary="Show business news"
+        android:title="@string/business" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/books_key"
+        android:summary="Show books news"
+        android:title="@string/books" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/music_key"
+        android:summary="Show music news"
+        android:title="@string/music" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/politics_key"
+        android:summary="Show spolitics news"
+        android:title="@string/politics" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/sports_key"
+        android:summary="Show sports news"
+        android:title="@string/sports" />
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/technology_key"
+        android:summary="Show technology news"
+        android:title="@string/technology" />
+</PreferenceScreen>

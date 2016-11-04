@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="business">Business</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_news">No new Feeds</string>
+    <string name="technology">Technology</string>
+    <string name="sports">Sports</string>
+    <string name="politics">Politics</string>
+    <string name="music">Music</string>
+    <string name="books">Books</string>
+    <string name="business_key">business</string>
+    <string name="technology_key">technology</string>
+    <string name="sports_key">sports</string>
+    <string name="politics_key">politics</string>
+    <string name="music_key">music</string>
+    <string name="books_key">books</string>
+</resources>
